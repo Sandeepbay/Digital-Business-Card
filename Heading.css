@@ -1,0 +1,23 @@
+.Heading {
+    margin-left: 10px;
+}
+
+.Heading--name {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: -10px;
+    color: #f5f5f5;
+}
+
+.Role {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: -3px;
+    color: #F3BF99;
+} 
+
+.Email {
+    font-size: 15px;
+    font-weight: bold;
+    color: #f5f5f5;
+}

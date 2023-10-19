@@ -1,0 +1,7 @@
+.Photo {
+    border: 5px solid black ;
+    width: 130px;
+    border-radius: 50px;
+    float: right;
+    margin-right: 5px;
+}
